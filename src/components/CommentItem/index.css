@@ -1,0 +1,145 @@
+.amber {
+  background-color: #f59e0b;
+  display: flex;
+  height: 30%;
+  padding: 15px 20px;
+  color: #ffff;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 60px;
+}
+
+.blue {
+  display: flex;
+  height: 30%;
+  padding: 15px 20px;
+  color: #ffff;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 60px;
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+  display: flex;
+  height: 30%;
+  padding: 15px 20px;
+  color: #ffff;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 60px;
+}
+
+.emerald {
+  background-color: #10b981;
+  display: flex;
+  height: 30%;
+  padding: 15px 20px;
+  color: #ffff;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 60px;
+}
+
+.teal {
+  background-color: #14b8a6;
+  display: flex;
+  height: 30%;
+  padding: 15px 20px;
+  color: #ffff;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 60px;
+}
+
+.red {
+  background-color: #b91c1c;
+  display: flex;
+  height: 30%;
+  padding: 15px 20px;
+  color: #ffff;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 60px;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  display: flex;
+  height: 30%;
+  padding: 15px 20px;
+  color: #ffff;
+  font-weight: bold;
+  align-items: center;
+  border-radius: 60px;
+}
+
+/* Write your CSS here */
+.comment-lists-data {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 2px solid #dee0e3;
+  margin: 5px 0px;
+}
+.comments-Lists {
+  display: flex;
+  font-family: Roboto;
+  width: 100%;
+  padding: 12px 10px;
+}
+.person-logo {
+}
+.c-box {
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px;
+}
+.person-details {
+  display: flex;
+}
+.person-name1 {
+  font-size: 18px;
+}
+.post-time {
+  padding-top: 5px;
+  padding-bottom: 0px;
+  margin-left: 20px;
+  font-size: small;
+  color: #64748b;
+  font-weight: 500;
+}
+.person-comment {
+  margin-top: 10px;
+  color: #7e858e;
+  font-weight: 500;
+}
+.like-data {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 10px;
+}
+.like-button {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}
+.like-p {
+  margin-left: 15px;
+  font-weight: bold;
+  color: #b2b6bb;
+  font-size: 18px;
+}
+.delete-btn {
+  background-color: transparent;
+  border: none;
+}
+.logo {
+  width: 20px;
+  height: 20px;
+}
+.active {
+  color: #0284c7;
+}
